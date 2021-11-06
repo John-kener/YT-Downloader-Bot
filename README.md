@@ -18,6 +18,6 @@
 
 <hr />
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 <h6>© 2021 -John Kener & SLCW</h6>
