@@ -18,7 +18,6 @@
 
 <hr />
 
-<h5>♥ If you have a speed server to run this bot you can do that ,but keep copyrights.</h5>
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 <h6>© 2021 -John Kener & SLCW</h6>
