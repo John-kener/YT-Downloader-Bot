@@ -1,0 +1,7 @@
+python-telegram-bot
+telegram
+urllib
+wget
+subprocess
+youtube_dl
+glob
