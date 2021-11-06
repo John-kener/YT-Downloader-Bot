@@ -1,3 +1,13 @@
+# Coded By John Kener
+# Copyright 2021 john-kener
+
+
+# Yeah brother you can see this little script and now you can
+# copy and paste it and publish this as yours 😂💔 :- For Script Thives 💯
+
+
+
+
 import telegram.ext ,os,wget,glob ,youtube_dl
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, CallbackContext
 from telegram import *
@@ -129,14 +139,6 @@ send.add_handler(telegram.ext.CommandHandler("description",description))
 # RECEIVING NEW MESSAGES
 updater.start_polling()
 updater.idle()
-
-
-
-
-
-
-#bot.send_video(chat_id=update.message.chat_id, video=open('output.mp4', 'rb'), supports_streaming=True)
-
 
 
 
